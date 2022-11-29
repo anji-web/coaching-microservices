@@ -1,0 +1,9 @@
+
+[	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(ÂÅöÁ
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(«Œ´éûÿÿÿÿ
+[	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(ÂÅöÁ
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(´ß‚™
+]
+java:S2259("BA "NullPointerException" could be thrown; "user" is nullable here.(É«¢Ëúÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ø­˜¹úÿÿÿÿ
